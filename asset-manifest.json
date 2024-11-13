@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rzkimaulana/portofolio-maul/static/css/main.babb887c.css",
+    "main.js": "/rzkimaulana/portofolio-maul/static/js/main.cc55a257.js",
+    "static/js/937.7ee3d631.chunk.js": "/rzkimaulana/portofolio-maul/static/js/937.7ee3d631.chunk.js",
+    "static/media/image1.jpg": "/rzkimaulana/portofolio-maul/static/media/image1.d5a06037ee0267ac5685.jpg",
+    "static/media/image2.jpg": "/rzkimaulana/portofolio-maul/static/media/image2.d355a1615f4a148b69ce.jpg",
+    "static/media/image4.jpg": "/rzkimaulana/portofolio-maul/static/media/image4.7f0633eed08acac59027.jpg",
+    "static/media/image6.jpg": "/rzkimaulana/portofolio-maul/static/media/image6.b024ddaed36f88a22505.jpg",
+    "static/media/image3.jpg": "/rzkimaulana/portofolio-maul/static/media/image3.dcd33b48668779f227fd.jpg",
+    "static/media/image5.jpg": "/rzkimaulana/portofolio-maul/static/media/image5.4df85458213ab08d68cf.jpg",
+    "static/media/gambar1.jpg": "/rzkimaulana/portofolio-maul/static/media/gambar1.d9fbc6fe8a7eebcf188e.jpg",
+    "index.html": "/rzkimaulana/portofolio-maul/index.html",
+    "main.babb887c.css.map": "/rzkimaulana/portofolio-maul/static/css/main.babb887c.css.map",
+    "main.cc55a257.js.map": "/rzkimaulana/portofolio-maul/static/js/main.cc55a257.js.map",
+    "937.7ee3d631.chunk.js.map": "/rzkimaulana/portofolio-maul/static/js/937.7ee3d631.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.babb887c.css",
+    "static/js/main.cc55a257.js"
+  ]
+}
